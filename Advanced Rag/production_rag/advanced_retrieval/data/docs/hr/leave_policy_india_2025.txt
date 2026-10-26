@@ -1,0 +1,10 @@
+---
+title: Leave Policy (India)
+department: HR
+region: India
+year: 2025
+doc_type: policy
+---
+Full-time employees in India receive 24 days of paid annual leave per calendar year. Leave is credited at the start of each quarter, six days at a time.
+
+Up to 10 unused days can be carried forward to the next year. Employees must apply for leave in the HR portal at least one week in advance.

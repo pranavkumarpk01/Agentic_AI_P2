@@ -1,0 +1,8 @@
+# advanced_retrieval - extra packages on top of production_rag/requirements.txt (Python 3.12)
+numpy>=1.26
+sentence-transformers>=3.0     # local embedding model (all-MiniLM-L6-v2, free, ~90 MB download on first run)
+pdfplumber>=0.11               # finds tables in PDFs
+rich>=13.7                     # pretty tables in the terminal
+google-genai>=1.0              # Gemini API (only script 04, optional - works offline without a key)
+python-dotenv>=1.0
+qdrant-client>=1.10           # script 05 (already in production_rag/requirements.txt)

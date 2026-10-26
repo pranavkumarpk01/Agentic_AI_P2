@@ -1,0 +1,9 @@
+{
+  "leave_policy_2023.md": {"title": "Leave Policy", "doc_key": "leave-policy", "version": "2023", "effective_date": "2023-01-01"},
+  "leave_policy_2025.md": {"title": "Leave Policy", "doc_key": "leave-policy", "version": "2025", "effective_date": "2025-01-01"},
+  "leave_policy_2027.md": {"title": "Leave Policy", "doc_key": "leave-policy", "version": "2027", "effective_date": "2027-01-01"},
+  "expense_policy.md":    {"title": "Travel and Expense Policy", "doc_key": "expense-policy", "version": "2025", "effective_date": "2025-04-01"},
+  "travel_booking.md":    {"title": "Travel Booking Guide", "doc_key": "travel-booking", "version": "2025", "effective_date": "2025-04-01"},
+  "refund_policy.md":     {"title": "Refund and Returns Policy", "doc_key": "refund-policy", "version": "2025", "effective_date": "2025-06-01"},
+  "loan_rate_guide.pdf":  {"title": "Loan Rate Guide", "doc_key": "loan-rates", "version": "2026", "effective_date": "2026-04-01"}
+}

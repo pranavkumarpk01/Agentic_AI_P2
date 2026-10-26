@@ -1,0 +1,14 @@
+---
+title: VPN Error Codes
+department: IT
+region: Global
+year: 2025
+doc_type: troubleshooting
+---
+ERR-4012: The VPN certificate on your laptop has expired. Open the IT Self-Service app, click Renew Certificate, then restart the VPN client.
+
+ERR-4013: Your VPN password has expired. Reset it on the password portal and wait 15 minutes before reconnecting.
+
+ERR-4021: The VPN server is unreachable. Check your internet connection and try the backup server vpn2.acme.example.
+
+ERR-5001: Multi-factor authentication timed out. Approve the push notification on your phone within 60 seconds.

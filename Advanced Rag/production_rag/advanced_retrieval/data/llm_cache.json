@@ -1,0 +1,15 @@
+{
+  "followup": {
+    "rewritten_query": "How many paid leave days do employees in the US get?"
+  },
+  "messy": {
+    "rewritten_query": "VPN not working error ERR-4012"
+  },
+  "multi": {
+    "queries": [
+      "taxi fare reimbursement for airport trips",
+      "how to submit a travel expense claim with receipts",
+      "business trip transport costs policy"
+    ]
+  }
+}

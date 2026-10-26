@@ -1,0 +1,10 @@
+---
+title: Remote Work Policy
+department: HR
+region: Global
+year: 2025
+doc_type: policy
+---
+Employees may perform their duties remotely for up to two days in each week, subject to manager approval. Remote days must be recorded in the attendance system.
+
+Telecommuting staff must connect through the company VPN when accessing internal systems.

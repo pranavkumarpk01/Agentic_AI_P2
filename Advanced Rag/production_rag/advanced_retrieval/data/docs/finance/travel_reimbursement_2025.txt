@@ -1,0 +1,12 @@
+---
+title: Travel Reimbursement Policy
+department: Finance
+region: Global
+year: 2025
+doc_type: policy
+---
+Taxi and ride-hailing fares between home and the airport are reimbursed for approved business trips.
+
+To get reimbursed, submit a travel expense claim in the expense portal within 30 days and attach all receipts.
+
+Meal expenses on business trips are reimbursed up to 1,500 INR per day in India and 50 USD per day in the US.
