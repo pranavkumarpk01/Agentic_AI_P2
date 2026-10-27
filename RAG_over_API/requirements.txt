@@ -1,0 +1,6 @@
+qdrant-client
+requests
+python-dotenv
+google-genai
+pypdf
+sentence-transformers
