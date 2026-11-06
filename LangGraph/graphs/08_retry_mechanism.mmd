@@ -1,0 +1,18 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	call_llm(call_llm)
+	give_up(give_up)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> call_llm;
+	call_llm -. &nbsp;done&nbsp; .-> __end__;
+	call_llm -.-> give_up;
+	give_up --> __end__;
+	call_llm -. &nbsp;retry&nbsp; .-> call_llm;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc
