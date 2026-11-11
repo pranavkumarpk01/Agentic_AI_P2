@@ -28,11 +28,12 @@ def supervisor(state: State) -> dict:
         f"Article done: {'yes' if state['article'] else 'no'}\n"
         "Research must come before writing. When the article is done, answer finish.\n"
         "Reply with exactly one word: researcher, writer or finish."
+        "Incase if u are not able to answer or get to know wat to do please reply with unknown, no_idea or confused in the answer"
     )
     text = llm.invoke(prompt).content.lower()
     # Fallback rule if the reply is unclear
     default = "researcher" if not state["research"] else ("writer" if not state["article"] else "finish")
-    choice = next((c for c in ["researcher", "writer", "finish"] if c in text), default)
+    choice = next((c for c in ["unkown", "no_idea", "confused"] if c in text), default)
     return {"next_agent": choice, "steps": steps}
 
 
